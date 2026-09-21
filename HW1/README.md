@@ -1,4 +1,4 @@
-# Homework 1: Financial Computing
+# Financial Computing: Homework 1
 
 ## Overview
 
